@@ -1,0 +1,7 @@
+{
+  "name": "NOKA Sushi",
+  "description": "Restaurante japonês sofisticado em Vila Nova das Belezas, São Paulo. Nota 4,9 no Google com 671 avaliações, sushis frescos e ambiente aconchegante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
